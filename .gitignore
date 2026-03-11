@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Envs
+.env
+venv/
+.env/
+
+# Data
+data/raw/
+data/large_files/
+*.csv
+*.parquet
+*.npy
+
+# OS
+.DS_Store
